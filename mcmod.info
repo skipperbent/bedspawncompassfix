@@ -1,0 +1,13 @@
+[
+{
+  "modid": "bedspawncompassfix",
+  "name": "Bed Spawn Compass Fix",
+  "description": "Changes the compass to always point at the bed spawn point location.",
+  "version": "1.0",
+  "mcversion": "1.5.2",
+  "url": "http://www.pecee.dk/",
+  "updateUrl": "",
+  "authors": ["Simon Sessingø"],  
+  "dependencies": [ ]
+}
+]
