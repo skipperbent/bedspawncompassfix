@@ -19,5 +19,3 @@ https://www.dropbox....pawnFix_1_0.zip
 Pssccchhhtttt: please check out my other MOD "Decorative Blocks" - here.
 
 Peas!
-
-- Simon 
